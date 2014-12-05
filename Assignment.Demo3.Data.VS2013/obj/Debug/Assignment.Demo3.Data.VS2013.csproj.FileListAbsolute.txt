@@ -1,0 +1,12 @@
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\bin\Debug\Assignment.Demo3.Data.VS2013.dll.config
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\bin\Debug\Assignment.Demo3.Data.VS2013.dll
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\bin\Debug\Assignment.Demo3.Data.VS2013.pdb
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\bin\Debug\Assignment.Demo3.Model.VS2013.dll
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\bin\Debug\EntityFramework.dll
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\bin\Debug\Assignment.Demo3.Model.VS2013.pdb
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\bin\Debug\EntityFramework.xml
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\obj\Debug\Assignment.Demo3.Data.VS2013.csprojResolveAssemblyReference.cache
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\obj\Debug\Assignment.Demo3.Data.VS2013.dll
+C:\Users\Vidura\Desktop\Webby Wednesday\Assignment.Demo3.VS2013\Assignment.Demo3.Data.VS2013\obj\Debug\Assignment.Demo3.Data.VS2013.pdb
